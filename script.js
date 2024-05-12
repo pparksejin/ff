@@ -96,7 +96,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 
     dateArea.addEventListener("click", function() {
-        const descriptionBox = createDescriptionBox("5월은 '가정의 달'이라고 불린다. 가정은 우리 삶에서 가장 중요한 공간 중 하나이며 그 안에서 우리는 사랑과 이해, 지지를 받는다. 가정의 달을 기념하여 가족들에게 평소 전하지 못한 감사한 마음을 전해보자! 아니면 지금 옆사람에게라도..");
+        const descriptionBox = createDescriptionBox("5월은 '가정의 달'이라고 불린다. 가정은 우리 삶에서 가장 중요한 공간 중 하나! 가정의 달을 기념하여 가족들에게 평소 전하지 못한 감사한 마음을 전해보자. 아니면 지금 옆사람에게라도..");
     });
 
     unknownArea.addEventListener("click", function() {
